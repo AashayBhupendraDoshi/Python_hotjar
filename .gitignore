@@ -1,0 +1,6 @@
+__pycache__
+venv
+.env
+data\.ipynb_checkpoints
+data\__pycache__
+app\__pycache__
