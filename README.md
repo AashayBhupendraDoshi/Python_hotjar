@@ -1,7 +1,7 @@
 <!--  -->
 ## FASTAPI ML Backend
 A basic FASTAPI ML backend performing clustering on user click information. Clustering method used is DBSCAN
-
+![alt text](https://github.com/AashayBhupendraDoshi/Python_FASTAPI_ML_test/blob/main/block_diagrm.png)
 To setup perform the following steps
 ```
 python -m venv venv
