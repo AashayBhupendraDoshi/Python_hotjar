@@ -4,9 +4,13 @@ A basic FASTAPI ML backend performing clustering on user click information. Clus
 ![alt text](https://github.com/AashayBhupendraDoshi/Python_FASTAPI_ML_test/blob/main/block__diagrm.png)
 ## Setup
 To setup perform the following steps
+Create a python virtual environment and activate it
 ```
 python -m venv venv
 ./venv/Scripts/Activate.psi
+```
+Install Requirements
+```
 pip install -r requirements.txt
 ```
 
