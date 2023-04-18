@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ```
 
 To start the webserver run the following command
+The ```--reload``` parameter is meant for development and should be omitted for production
 ```
 uvicorn app.main:app --reload
 ```
